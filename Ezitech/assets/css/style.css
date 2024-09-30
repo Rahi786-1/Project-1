@@ -20,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Jost", sans-serif;
+  font-family: "Arial", sans-serif;
 }
 
 
@@ -109,8 +109,8 @@ h6 {
   color: #47b2e4;
 }
 
-.navbar .getstarted,
-.navbar .getstarted:focus {
+.navbar .gestated,
+.navbar .gestated:focus {
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 50px;
@@ -120,8 +120,8 @@ h6 {
   font-weight: 600;
 }
 
-.navbar .getstarted:hover,
-.navbar .getstarted:focus:hover {
+.navbar .gestated:hover,
+.navbar .gestated:focus:hover {
   color: #fff;
   background: #31a9e1;
 }
@@ -197,8 +197,8 @@ h6 {
   color: #47b2e4;
 }
 
-.navbar-mobile .getstarted,
-.navbar-mobile .getstarted:focus {
+.navbar-mobile .gestated,
+.navbar-mobile .gestated:focus {
   margin: 15px;
   color: #37517e;
 }
@@ -322,7 +322,7 @@ h2 {
 }
 
 #hero .btn-get-started {
-  font-family: "Jost", sans-serif;
+  font-family: "arial", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
